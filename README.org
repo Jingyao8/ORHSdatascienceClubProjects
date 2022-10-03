@@ -1,2 +1,2 @@
 * ideas
-  + 
+  + Analyzing any sort of dataset in relationship to time
